@@ -3,4 +3,4 @@ Some details:
 - Then also attempts to compute different xG calculations that include other
 binary descriptors of the shot and other factors
 - It also creates two maps that plot shots and their xG calculations, one with the standard model 
-and one with the other factors
+and one with the same model but only shots that used the shooter's preferred foot
